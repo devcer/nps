@@ -1,0 +1,16 @@
+{
+  "name": "appvirality",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "budo --live --verbose --port 3030 --open"
+  },
+  "author": "santosh viswanatham",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "budo": "^10.0.3",
+    "jquery": "^3.2.1"
+  }
+}
